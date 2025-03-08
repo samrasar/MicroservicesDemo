@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8662d145-66b7-4754-ada2-d557b1257f60" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/api-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/api-gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/api-gateway/src/main/java/com/telusko/apigateway/ApiGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/api-gateway/src/main/java/com/samrat/apigateway/ApiGatewayApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/api-gateway/src/test/java/com/telusko/apigateway/ApiGatewayApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/api-gateway/src/test/java/com/samrat/apigateway/ApiGatewayApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/question-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/question-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/telusko/questionservice/QuestionServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/samrat/questionservice/QuestionServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/telusko/questionservice/controller/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/samrat/questionservice/controller/QuestionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/telusko/questionservice/dao/QuestionDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/samrat/questionservice/dao/QuestionDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/telusko/questionservice/model/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/samrat/questionservice/model/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/telusko/questionservice/model/QuestionWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/samrat/questionservice/model/QuestionWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/telusko/questionservice/model/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/samrat/questionservice/model/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/telusko/questionservice/service/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/main/java/com/samrat/questionservice/service/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/test/java/com/telusko/questionservice/QuestionServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/question-service/src/test/java/com/samrat/questionservice/QuestionServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/telusko/quizservice/QuizServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/samrat/quizservice/QuizServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/telusko/quizservice/controller/QuizController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/samrat/quizservice/controller/QuizController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/telusko/quizservice/dao/QuizDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/samrat/quizservice/dao/QuizDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/telusko/quizservice/feign/QuizInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/samrat/quizservice/feign/QuizInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/telusko/quizservice/model/QuestionWrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/samrat/quizservice/model/QuestionWrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/telusko/quizservice/model/Quiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/samrat/quizservice/model/Quiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/telusko/quizservice/model/QuizDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/samrat/quizservice/model/QuizDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/telusko/quizservice/model/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/samrat/quizservice/model/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/telusko/quizservice/service/QuizService.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/main/java/com/samrat/quizservice/service/QuizService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/test/java/com/telusko/quizservice/QuizServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/quiz-service/src/test/java/com/samrat/quizservice/QuizServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/service-registry/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/service-registry/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/service-registry/src/main/java/com/telusko/serviceregistry/ServiceRegistryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/service-registry/src/main/java/com/samrat/serviceregistry/ServiceRegistryApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MicroserviceTutorials/service-registry/src/test/java/com/telusko/serviceregistry/ServiceRegistryApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MicroserviceTutorials/service-registry/src/test/java/com/samrat/serviceregistry/ServiceRegistryApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MicroserviceTutorials" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2u2Xk4VE01qtUt8HTpXSVZJyEU3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/intellijWorkspace/MicroservicesDemo"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8662d145-66b7-4754-ada2-d557b1257f60" name="Changes" comment="" />
+      <created>1741447782750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741447782750</updated>
+    </task>
+    <servers />
+  </component>
+</project>
